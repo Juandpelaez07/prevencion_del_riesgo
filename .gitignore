@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+uploads/
+jobs/
+.python-version
+.DS_Store
+*.log
+agent-tools/
